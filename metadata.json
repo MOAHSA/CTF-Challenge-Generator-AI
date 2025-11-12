@@ -1,0 +1,5 @@
+{
+  "name": "CTF Challenge Generator AI",
+  "description": "An AI-powered application to generate custom pwn and reverse engineering CTF challenges. Users can select topics and languages manually or be guided by an AI assistant to create tailored challenges with source code and instructions.",
+  "requestFramePermissions": []
+}
